@@ -3,4 +3,4 @@ A repo to demonstrate an ideal git workflow resulting in a clean graph that's ea
 
 * this is the new user profile feature
 * this is the improved login screen feature
-* backend of calendar picker
+* backend of calendar picker | start frontend of calendar picker
