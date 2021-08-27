@@ -5,4 +5,4 @@ THIS IS THE URGENT PASSWORD BUG HOTFIX
 
 * this is the new user profile feature
 * this is the improved login screen feature
-* backend of calendar picker
+* backend of calendar picker | frontend of calendar picker
